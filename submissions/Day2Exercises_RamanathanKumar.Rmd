@@ -1,0 +1,16 @@
+---
+title: "Day 2 Exercises"
+author: "Kumar Ramanathan"
+date: "9/18/2018"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+Here are my answers to the Day 2 exercises!
+
+... whoops! I forgot to actually do the exercises.
