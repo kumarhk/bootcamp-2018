@@ -14,3 +14,7 @@ knitr::opts_chunk$set(echo = TRUE)
 Here are my answers to the Day 2 exercises!
 
 ... whoops! I forgot to actually do the exercises.
+
+## Let me add something here
+
+... for testing purposes.
